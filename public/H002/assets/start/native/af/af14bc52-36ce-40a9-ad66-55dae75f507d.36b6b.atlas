@@ -1,0 +1,20 @@
+
+ball.png
+size: 288,180
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: true
+  xy: 2, 2
+  size: 176, 222
+  orig: 176, 222
+  offset: 0, 0
+  index: -1
+2
+  rotate: true
+  xy: 226, 106
+  size: 72, 60
+  orig: 72, 60
+  offset: 0, 0
+  index: -1
