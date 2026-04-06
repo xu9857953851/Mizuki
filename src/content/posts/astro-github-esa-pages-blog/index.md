@@ -2,6 +2,7 @@
 title: Astro + GitHub + 阿里云 ESA Pages 搭建个人博客实战
 published: 2026-04-06
 description: 用 Astro 搭一个静态博客，通过 GitHub 管理代码，再交给阿里云 ESA Pages 自动构建和发布，一次讲清从建站到 SEO 优化的完整流程。
+image: "./cover.svg"
 tags: [Astro, GitHub, 阿里云, ESA Pages, 博客, SEO]
 category: 建站
 draft: false

@@ -2,7 +2,7 @@
 title: 热血传奇一键端是什么？从技术结构到常见问题一次讲清
 published: 2026-04-06
 description: 这篇文章不讲开服实操，而是从技术角度梳理“传奇一键端”到底包含什么、为什么经常出问题，以及接触这类资源前该先注意哪些风险。
-image: /images/posts/legend-oneclick-overview/cover.svg
+image: "./cover.svg"
 tags: [传奇, 一键端, 游戏技术, 教程, 风险说明]
 category: 游戏技术
 draft: false
@@ -31,7 +31,7 @@ pinned: false
 
 也就是说，所谓一键端，本质上更像是一个**预配置的环境包**。它把原本需要自己拼起来的内容，提前打包给你，但这里面每一层都可能出兼容问题。
 
-![一键端常见组成结构示意](/images/posts/legend-oneclick-overview/architecture.svg)
+![一键端常见组成结构示意](./architecture.svg)
 
 ## 为什么它叫“一键”，但实际并不真的一键
 
@@ -158,7 +158,7 @@ pinned: false
 
 很多人看到“一键端”会先想到效率，但很少先考虑它的来源、合法性和安全性。实际上，这类资源的风险往往不小。
 
-![接触一键端前的检查清单](/images/posts/legend-oneclick-overview/checklist.svg)
+![接触一键端前的检查清单](./checklist.svg)
 
 ### 1. 来源风险
 

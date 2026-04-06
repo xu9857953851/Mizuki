@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630" role="img" aria-labelledby="title desc">
+  <title id="title">Astro + GitHub + 阿里云 ESA Pages</title>
+  <desc id="desc">搭建个人博客实战</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#312e81"/>
+      <stop offset="50%" stop-color="#0f172a"/>
+      <stop offset="100%" stop-color="#0f766e"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="630" fill="url(#bg)"/>
+  <rect x="72" y="76" width="1056" height="478" rx="28" fill="#0b1220" opacity="0.74" stroke="#60a5fa" stroke-opacity="0.35"/>
+  <text x="104" y="210" fill="#93c5fd" font-size="34" font-family="Arial, PingFang SC, Microsoft YaHei, sans-serif">建站 / 教程 / SEO</text>
+  <text x="104" y="305" fill="#ffffff" font-size="66" font-weight="700" font-family="Arial, PingFang SC, Microsoft YaHei, sans-serif">Astro + GitHub + 阿里云</text>
+  <text x="104" y="388" fill="#ffffff" font-size="66" font-weight="700" font-family="Arial, PingFang SC, Microsoft YaHei, sans-serif">ESA Pages 搭建博客实战</text>
+  <g transform="translate(860 210)" font-family="Arial, PingFang SC, Microsoft YaHei, sans-serif">
+    <rect x="0" y="0" width="180" height="72" rx="16" fill="#f97316"/>
+    <rect x="20" y="102" width="180" height="72" rx="16" fill="#2563eb"/>
+    <rect x="-10" y="204" width="180" height="72" rx="16" fill="#14b8a6"/>
+    <text x="90" y="45" text-anchor="middle" fill="#fff" font-size="26">Astro</text>
+    <text x="110" y="147" text-anchor="middle" fill="#fff" font-size="26">GitHub</text>
+    <text x="80" y="249" text-anchor="middle" fill="#fff" font-size="24">ESA Pages</text>
+  </g>
+</svg>
