@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="720" viewBox="0 0 1200 720">
+  <rect width="1200" height="720" fill="#0f172a"/>
+  <text x="60" y="72" fill="#fff" font-size="42" font-weight="700" font-family="Arial, PingFang SC, Microsoft YaHei, sans-serif">“一键端”常见组成结构示意</text>
+  <text x="60" y="114" fill="#94a3b8" font-size="24" font-family="Arial, PingFang SC, Microsoft YaHei, sans-serif">它通常不是一个单独程序，而是一组打包好的组件</text>
+  <g font-family="Arial, PingFang SC, Microsoft YaHei, sans-serif">
+    <rect x="70" y="180" width="230" height="120" rx="22" fill="#7c3aed"/>
+    <text x="185" y="235" text-anchor="middle" fill="#fff" font-size="32" font-weight="700">客户端 / 登录器</text>
+    <text x="185" y="272" text-anchor="middle" fill="#ede9fe" font-size="20">负责入口、补丁、连接地址</text>
+
+    <rect x="380" y="180" width="230" height="120" rx="22" fill="#2563eb"/>
+    <text x="495" y="235" text-anchor="middle" fill="#fff" font-size="32" font-weight="700">服务端程序</text>
+    <text x="495" y="272" text-anchor="middle" fill="#dbeafe" font-size="20">地图、怪物、脚本、爆率等逻辑</text>
+
+    <rect x="690" y="180" width="230" height="120" rx="22" fill="#0f766e"/>
+    <text x="805" y="235" text-anchor="middle" fill="#fff" font-size="32" font-weight="700">数据库</text>
+    <text x="805" y="272" text-anchor="middle" fill="#ccfbf1" font-size="20">账号、角色、物品、配置数据</text>
+
+    <rect x="970" y="180" width="160" height="120" rx="22" fill="#ea580c"/>
+    <text x="1050" y="235" text-anchor="middle" fill="#fff" font-size="32" font-weight="700">GM 工具</text>
+    <text x="1050" y="272" text-anchor="middle" fill="#ffedd5" font-size="20">调试与管理</text>
+
+    <line x1="300" y1="240" x2="380" y2="240" stroke="#cbd5e1" stroke-width="6"/>
+    <line x1="610" y1="240" x2="690" y2="240" stroke="#cbd5e1" stroke-width="6"/>
+    <line x1="920" y1="240" x2="970" y2="240" stroke="#cbd5e1" stroke-width="6"/>
+
+    <rect x="150" y="430" width="900" height="170" rx="28" fill="#111827" stroke="#334155"/>
+    <text x="190" y="485" fill="#f8fafc" font-size="34" font-weight="700">为什么“一键端”还是经常出问题？</text>
+    <text x="190" y="535" fill="#cbd5e1" font-size="26">因为它只是把复杂环境预打包，不代表版本一定匹配、路径一定正确、依赖一定完整。</text>
+    <text x="190" y="575" fill="#cbd5e1" font-size="26">常见故障往往出在：数据库连不上、补丁不对应、端口冲突、系统兼容性差。</text>
+  </g>
+</svg>
