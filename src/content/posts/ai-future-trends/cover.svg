@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630" role="img" aria-labelledby="title desc">
+  <title id="title">AI 以后的发展趋势</title>
+  <desc id="desc">从工具走向基础能力</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0f172a"/>
+      <stop offset="50%" stop-color="#1d4ed8"/>
+      <stop offset="100%" stop-color="#14b8a6"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="630" fill="url(#bg)"/>
+  <circle cx="980" cy="120" r="120" fill="#93c5fd" opacity="0.15"/>
+  <circle cx="230" cy="520" r="170" fill="#67e8f9" opacity="0.12"/>
+  <rect x="72" y="78" width="1056" height="474" rx="28" fill="#08111f" opacity="0.72" stroke="#93c5fd" stroke-opacity="0.36"/>
+  <text x="106" y="215" fill="#93c5fd" font-size="34" font-family="Arial, PingFang SC, Microsoft YaHei, sans-serif">科技观察 / AI / 趋势判断</text>
+  <text x="106" y="315" fill="#ffffff" font-size="68" font-weight="700" font-family="Arial, PingFang SC, Microsoft YaHei, sans-serif">AI 以后的发展趋势</text>
+  <text x="106" y="392" fill="#e5e7eb" font-size="34" font-family="Arial, PingFang SC, Microsoft YaHei, sans-serif">从“能用的工具”走向“真正融入生活的基础能力”</text>
+  <g transform="translate(870 250)" font-family="Arial, PingFang SC, Microsoft YaHei, sans-serif">
+    <rect x="0" y="0" width="170" height="70" rx="16" fill="#2563eb"/>
+    <rect x="24" y="96" width="170" height="70" rx="16" fill="#06b6d4"/>
+    <rect x="-16" y="192" width="170" height="70" rx="16" fill="#14b8a6"/>
+    <text x="85" y="43" text-anchor="middle" fill="#fff" font-size="26">工具化</text>
+    <text x="109" y="139" text-anchor="middle" fill="#fff" font-size="26">行业化</text>
+    <text x="69" y="235" text-anchor="middle" fill="#fff" font-size="26">基础化</text>
+  </g>
+</svg>
